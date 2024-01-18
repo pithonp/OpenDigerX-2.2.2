@@ -3,3 +3,7 @@
 
 Thanks to Brian Tichler For all he has Done!
 Thanks to BlackAceIndustries for OpenGradeX!
+
+
+
+Auto on and start drawing if button pressed
