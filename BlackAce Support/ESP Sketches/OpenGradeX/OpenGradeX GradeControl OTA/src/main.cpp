@@ -26,7 +26,7 @@
 ///
 /// BUILD VERSION
 ///
-const char *version = "1.4.2.2R";
+const char *version = "1.4.2.22";
 
 // Function STUBS for Platform IO
 
