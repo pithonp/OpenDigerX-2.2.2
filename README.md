@@ -6,4 +6,6 @@ Thanks to BlackAceIndustries for OpenGradeX!
 
 
 
-Auto on and start drawing if button pressed
+	Auto on and start drawing if button pressed
+	I-gain dead band 30 -> 3cm 50-> 5cm
+	D-gain max servo motor angle
