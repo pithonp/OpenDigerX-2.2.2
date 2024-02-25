@@ -6,6 +6,11 @@ Thanks to BlackAceIndustries for OpenGradeX!
 
 
 
-	Auto on and start drawing if button pressed
+	Auto on and start drawing if Joystic button pressed
 	I-gain dead band 30 -> 3cm 50-> 5cm
 	D-gain max servo motor angle
+ for me
+RDEADBAND 20 EX DEADBAND21
+P-GAIN 190
+IGAIN 10
+DGAIN 85
